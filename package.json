@@ -1,0 +1,24 @@
+{
+  "name": "discord.js-codesimplifier",
+  "version": "1.0.0",
+  "description": "Esencial para la gente que está empezando en discord.js",
+  "main": "./lib/codesimplifier.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WidBoy/discord.js-codesimplifier"
+  },
+  "keywords": [
+    "discord.js",
+    "codesimplifier",
+    "js"
+  ],
+  "author": "WidBoy",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "underscore": "^1.9.1"
+  }
+}
