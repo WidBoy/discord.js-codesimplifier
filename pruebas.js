@@ -39,4 +39,4 @@ if(command === "servername"){
 }
 
 });
-client.login("NjE3Mjc3NDA0OTA5NDA0MjAz.XWoyZw.7aN0KJ7yULFTo-q7-eXT5ar1-6Q");
+client.login("NjE3Mjc3NDA0OTA5NDA0MjAz.XWrTgA.sBxyoC6nfx-kQQgq7GBWEEr9WIA");

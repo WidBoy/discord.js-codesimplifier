@@ -1,6 +1,6 @@
 {
   "name": "discord.js-codesimplifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Esencial para la gente que está empezando en discord.js",
   "main": "./lib/codesimplifier.js",
   "scripts": {
