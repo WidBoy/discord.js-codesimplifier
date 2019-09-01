@@ -1,14 +1,14 @@
 {
   "name": "discord.js-codesimplifier",
-  "version": "1.0.1",
-  "description": "Esencial para la gente que está empezando en discord.js",
+  "version": "1.0.6",
+  "description": "Acortador de codigo para discord.js",
   "main": "./lib/codesimplifier.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/WidBoy/discord.js-codesimplifier"
+    "url": "git+https://github.com/WidBoy/discord.js-codesimplifier.git"
   },
   "keywords": [
     "discord.js",
@@ -20,5 +20,13 @@
   "dependencies": {
     "discord.js": "^11.5.1",
     "underscore": "^1.9.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/WidBoy/discord.js-codesimplifier/issues"
+  },
+  "homepage": "https://github.com/WidBoy/discord.js-codesimplifier#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }

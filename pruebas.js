@@ -38,5 +38,46 @@ if(command === "servername"){
   message.channel.send(name)
 }
 
+if(command === "ping"){
+  let ping = simplifier.ping(message)
+  message.channel.send(ping)
+}
+
+if(command === "rolelist"){
+let list = simplifier.rolelist(message)
+message.channel.send(list)
+}
+
+if(command === "serverregion"){
+  let region = simplifier.serverregion(message)
+  message.channel.send(region)
+
+}
+if(command === "serversecurity"){
+  let nivel = simplifier.serversecurity(message)
+  message.channel.send(nivel)
+}
+
+if(command === "servercreacion"){
+  let dia = simplifier.servercreacion(message)
+  message.channel.send(dia)
+}
+
+if(command === "botserverlist"){
+  let search = simplifier.botserverlist(message)
+  message.channel.send(search)
+}
+
+if(command === "emojilist"){
+  let list = simplifier.emojilist(message)
+  message.channel.send(list)
+}
+
+if(command === "serverafkchannel"){
+  let canal = simplifier.serverafkchannel(message)
+  message.channel.send(canal)
+}
+
+
 });
-client.login("NjE3Mjc3NDA0OTA5NDA0MjAz.XWrTgA.sBxyoC6nfx-kQQgq7GBWEEr9WIA");
+client.login("");
