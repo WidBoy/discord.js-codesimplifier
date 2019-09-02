@@ -18,7 +18,6 @@ Ahora, con este npm, con un par de letras podrás representar eso!
 | serversecurity | Con esta extensión el bot mostará el nivel de seguridad del servidor |
 | servercreacion | Con esta extensión el bot mostrará la fecha de creación del servidor |
 | serverregion | Con esta extensión el bot mnadará la región del servidor |
-| ping | Con esta extensión el bot mandará tu ping |
 | rolelist | Con esta extensión el bot mandará la lista de roles del servidor [POSIBLES ERRORES](https://www.npmjs.com/package/discord.js-codesimplifier#posibles-errores) |
 | emojilist | Con está extensión el bot mandará la lista de emojis del servidor [POSIBLES ERRORES](https://www.npmjs.com/package/discord.js-codesimplifier#posibles-errores) |
 | botserverlist | Con esta extensión el bot mandará la lista de servidores en los que está el bot |

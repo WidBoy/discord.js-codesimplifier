@@ -80,4 +80,4 @@ if(command === "serverafkchannel"){
 
 
 });
-client.login("");
+client.login("NjE3Mjc3NDA0OTA5NDA0MjAz.XWukRg.7qnUIlNiSvYEoU-kYh3xDhf5zhI");
