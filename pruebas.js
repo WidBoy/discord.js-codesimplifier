@@ -73,11 +73,21 @@ if(command === "emojilist"){
   message.channel.send(list)
 }
 
-if(command === "serverafkchannel"){
-  let canal = simplifier.serverafkchannel(message)
-  message.channel.send(canal)
+if(command === "midiscrim") {
+  let discrim = simplifier.midiscrim(message)
+message.channel.send(discrim)
+}
+
+if(command === "pingbot") {
+  let ping = simplifier.pingbot(message)
+  message.channel.send(ping)
+}
+
+if(command === "botuptime") {
+  let uptime = simplifier.botuptime(message)
+  message.channel.send(uptime)
 }
 
 
 });
-client.login("NjE3Mjc3NDA0OTA5NDA0MjAz.XWukRg.7qnUIlNiSvYEoU-kYh3xDhf5zhI");
+client.login("NjE3Mjc3NDA0OTA5NDA0MjAz.XWzgiA.KMUJIykNX9tSz8W5iY_IyYRQDF8");
